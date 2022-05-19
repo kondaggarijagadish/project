@@ -23,7 +23,7 @@ WE HAVE TO ADD SOME SPRING AND ANGULAR ALSO
 First, you must install Git Bash.
 Here's where you can get Git Bash: https://github.com/git-for-windows/git/releases/download/v2.35.3.windows.1/Git-2.35.3-64-bit.exe
 We must look at the following while installing Git Bash: Don't choose as in Credential Manager as "none".
-After that, we have start Bash and type the following command: git clone https://github.com/GOUSEPEERA/Hotel_Report
+After that, we have start Bash and type the following command: git clone https://github.com/kondaggarijagadish/project
 Next run a command: cd foldername/
 After that command is: git status
 Next command is: git add . (if we want to add files addtionally)
